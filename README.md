@@ -7,7 +7,7 @@ This project aims to analyze customer churn behavior in a telecom company. The p
 
 1. Data Analysis with SQL:
    
-o	Use SQL to analyse Telecom Customer Churn data to derive insights into customer behaviour, usage trends, and churn indicators
+  o	Use SQL to analyse Telecom Customer Churn data to derive insights into customer behaviour, usage trends, and churn indicators
 
 3. Data Visualization:
    
